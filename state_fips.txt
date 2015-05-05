@@ -1,3 +1,4 @@
+FIPS  STATE
 01	Alabama
 02	Alaska
 04	Arizona
