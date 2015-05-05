@@ -1,3 +1,4 @@
+FIPS	COUNTY
 001	Autauga County
 003	Baldwin County
 005	Barbour County
