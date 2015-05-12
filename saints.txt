@@ -107,7 +107,7 @@ Isfrid
 Jadwiga
 Py
 Alphonsa
-Adelaide,
+Adelaide
 Gaudentius
 Dagobert
 Eysteinn
@@ -252,7 +252,7 @@ Celadion
 Wulfram
 Maximus
 Hallvard
-Cyril,
+Cyril
 Théodore
 Kesso
 Mary
