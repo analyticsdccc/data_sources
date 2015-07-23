@@ -50,4 +50,3 @@ fips	state
 54	West Virginia
 55	Wisconsin
 56	Wyoming
-
