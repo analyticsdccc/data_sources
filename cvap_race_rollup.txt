@@ -1,3 +1,4 @@
+cvap.column	race.column
 Total	Total
 Not Hispanic or Latino	Not.Hispanic
 American Indian or Alaska Native Alone	Native.American
