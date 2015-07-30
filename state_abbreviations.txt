@@ -8,7 +8,7 @@ California	CA
 Colorado	CO
 Connecticut	CT
 Delaware	DE
-District Of Columbia	DC
+District of Columbia	DC
 Federated States of Micronesia	FM
 Florida	FL
 Georgia	GA
