@@ -6,9 +6,9 @@ Asian Alone	Asian
 Black or African American Alone	Black
 Native Hawaiian or Other Pacific Islander Alone	Pacific.Islander
 White Alone	White
-American Indian or Alaska Native and White	Native.American
-Asian and White	Asian
-Black or African American and White	Black
-American Indian or Alaska Native and Black or African American	Native.American
+American Indian or Alaska Native and White	Other
+Asian and White	Other
+Black or African American and White	Other
+American Indian or Alaska Native and Black or African American	Other
 Remainder of Two or More Race Responses	Other
 Hispanic or Latino	Latino
