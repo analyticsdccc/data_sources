@@ -5,7 +5,7 @@ American Indian or Alaska Native Alone	Other
 Asian Alone	Asian
 Black or African American Alone	Black
 Native Hawaiian or Other Pacific Islander Alone	Asian
-White Alone	Other
+White Alone	White
 American Indian or Alaska Native and White	Other
 Asian and White	Other
 Black or African American and White	Other
