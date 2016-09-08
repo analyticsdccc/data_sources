@@ -1,14 +1,14 @@
 cvap.column	race.column
 Total	Total
-Not Hispanic or Latino	Other
-American Indian or Alaska Native Alone	Other
+Not Hispanic or Latino	Non.Hispanic
+American Indian or Alaska Native Alone	Native.American
 Asian Alone	Asian
 Black or African American Alone	Black
 Native Hawaiian or Other Pacific Islander Alone	Asian
 White Alone	White
-American Indian or Alaska Native and White	Other
-Asian and White	Other
-Black or African American and White	Other
-American Indian or Alaska Native and Black or African American	Other
-Remainder of Two or More Race Responses	Other
+American Indian or Alaska Native and White	Two.Or.More
+Asian and White	Two.Or.More
+Black or African American and White	Two.Or.More
+American Indian or Alaska Native and Black or African American	Two.Or.More
+Remainder of Two or More Race Responses	Two.Or.More
 Hispanic or Latino	Hispanic
